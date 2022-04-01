@@ -1,4 +1,4 @@
-node('Slave1')
+node('Test')
 {
 stage("Code Checkout")
 {
